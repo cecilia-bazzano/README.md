@@ -30,7 +30,7 @@ Contact
 --------------------------------------------------
 * 🌍  Based in Barcelona, Spain
 * ✉️  [mceciliabazzano@hotmail.com](mailto:mceciliabazzano@hotmail.com)
-* 📲  +34 661 163 041
+* 📲  +34 685 388 133
 * ⚡ [Linkedin](https://www.linkedin.com/in/ceciliabazzano/)<a href="https://www.linkedin.com/in/ceciliabazzano/" target="_blank"></a>
 
 Softwares
