@@ -5,8 +5,10 @@ About me
 ---------------------------------------------------
 Hola! 
 
-I'm Cecilia, a UX/UI designer with experience in fast-paced startups. My mission is to craft user-friendly and visually captivating products creating user satisfaction that aligns to business objectives.
-My background as a Fashion Designer has cultivated my aesthetic sensibility, pixel-perfect precision, designing for different clients, cross-functional collaboration, and delivering products with a deep understanding of the target audience's preferences and business objectives. 
+I'm Cecilia, a UX/UI designer with experience in fast-paced startups. My mission is to design products that are both user-friendly and visually engaging, ensuring user satisfaction aligned to business goals.
+
+As a Fashion Designer, I've cultivated my aesthetic sensibility, pixel-perfect precision, and cross-functional collaboration, delivering products with a deep understanding of client preferences and business goals.
+
 I'm open to new ideas and committed to continuous learning. Drop me a line!
 
 ☞ Skills: UX/UI Design · User Research · Design Thinking · Design · Prototyping · Visual Design · Interaction Design · Usability testing · Data analysis · Benchmark · Survey · Task analysis · Html · CSS · Collaborative · Empathy · Communicative · Graphic Design
@@ -18,6 +20,9 @@ Skills
 * Usability Testing
 * Design thinking
 * Interaction Design
+* Visual designer
+* Graphic Design
+* Task Analysis
 ... and some more
 
 Also, some Html and Css skills :).
