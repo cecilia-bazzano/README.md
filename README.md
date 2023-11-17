@@ -10,7 +10,6 @@ As a Fashion Designer, I've cultivated my aesthetic sensibility, pixel-perfect p
 
 I'm open to new ideas and committed to continuous learning. Drop me a line!<br>
 
-☞ Skills: UX/UI Design · User Research · Design Thinking · Design · Prototyping · Visual Design · Interaction Design · Usability testing · Data analysis · Benchmark · Survey · Task analysis · Html · CSS · Collaborative · Empathy · Communicative · Graphic Design
 
 Skills 
 --------------------------------------------------
