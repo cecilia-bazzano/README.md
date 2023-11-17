@@ -1,4 +1,3 @@
-# README.md
 Cecilia Bazzano | UX/UI Designer 
 ====================================
 About me
